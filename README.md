@@ -9,6 +9,9 @@ https://analizajb.github.io/code-refactor/
 * HTML
 * CSS
 
+## Screenshot:
+<img src= "./analizajb.github.io_code-refactor_.png" width="800" />
+
 ### Made by: ###
  Analiza Boehning
  [analizajb](https://github.com/)
