@@ -8,4 +8,4 @@ HTML file is a lot "cleaner" with proper semantic elements organizing the page. 
 
 ### Made by: ###
  Analiza Boehning
- [github: analizajb](https://github.com/)
+ [analizajb](https://github.com/)
